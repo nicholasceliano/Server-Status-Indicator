@@ -1,0 +1,17 @@
+{
+  "name": "ServerStatusIndicator",
+  "version": "0.0.0",
+  "description": "ServerStatusIndicator",
+  "main": "app.js",
+  "author": "00619461",
+  "dependencies": {
+    "jade": "^1.4.2",
+    "jquery": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "license": "ISC"
+}
